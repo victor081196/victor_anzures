@@ -18,9 +18,9 @@ Nombre:
 ## Prueba ##
 * Lee la documentación del API de [JSONPlaceholder](http://jsonplaceholder.typicode.com/guide/) y crea una aplicación web en PHP que realice lo siguiente:
 	* Obtén los 10 usuarios del API y mustralos en una lista **_(15 puntos)_**
-	* Al seleccionar un usuario muestra algunos campos con su información (name, username, email, etc.) y coloca 2 botones para poder seleccionar los "posts" y "todos" que estén relacionados con el usuario. **_(15 puntos)_**
-	* Al dar click en el botón de "posts" se deberán mostrar todas las publicaciones que ha realizado el usuario, cada publicación deberá tener anidados sus comentarios. **_(15 puntos)_**
-	* Al dar click en el botón de "todos" se deberán mostrar las tareas del usuario ordenadas por la propiedad "id" de mayor a menor. **_(15 puntos)_**
+	* Al seleccionar un usuario muestra algunos campos con su información (name, username, email, etc.) y coloca 2 botones para poder seleccionar los "posts" y "todos" que estén relacionados con el usuario. **_(20 puntos)_**
+	* Al dar click en el botón de "posts" se deberán mostrar todas las publicaciones que ha realizado el usuario, cada publicación deberá tener anidados sus comentarios. **_(20 puntos)_**
+	* Al dar click en el botón de "todos" se deberán mostrar las tareas del usuario ordenadas por la propiedad "id" de mayor a menor. **_(20 puntos)_**
 	* En la sección de "todos", crea un formulario para poder agregar una nueva tarea al usuario, este debe de contener una caja de texto (title), un checkbox (completed) y un botón de guardar. Al dar click en el botón, manda la información necesaria al API con el método HTTP correcto para que la tarea quede guardada. **_(25 puntos)_**
 
 

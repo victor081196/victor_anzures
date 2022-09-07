@@ -5,7 +5,7 @@ Prueba: **DESARROLLADOR DE INTEGRACIONES**
 
 Deadline: **1 día**
 
-Nombre: 
+Nombre: Victor Manuel Anzures Tapia
 
 ------
 ## Clona y crea tu repositorio para la evaluación ##

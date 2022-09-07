@@ -93,7 +93,7 @@ $tasks = json_decode(file_get_contents("https://jsonplaceholder.typicode.com/use
                 success: function(res) {
                     if(res.id){
                         alert("La tarea se agrego correctamente")
-                        window.location.reload();
+                        // window.location.reload();
                     }
                 }
             })

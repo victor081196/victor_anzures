@@ -19,6 +19,7 @@ $publicaciones = json_decode(file_get_contents("https://jsonplaceholder.typicode
                         <div class="card-body">
                             <h3 class="card-title"><i class="fas fa-bookmark"></i> <?= $pbl['title'] ?></h3>
                             <p class="card-text"><?= $pbl['body'] ?></p>
+                            <p class="card-text"><strong>Comentarios</strong></p>
                             <?php
                             $i = 1;
                             foreach ($comments as $comment) : ?>

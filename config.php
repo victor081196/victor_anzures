@@ -5,8 +5,6 @@ $fecha = date('Y-m-d H:i:s');
 define('FECHA', $fecha);
 // Nueva linea
 define('HORA',date('H:i:s'));
-define('USER_HOSTINGER','u203735599_');
-
 /**
 
 

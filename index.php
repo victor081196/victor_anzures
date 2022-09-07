@@ -1,4 +1,4 @@
-<?php
+<?php ob_start();
 $users = json_decode(file_get_contents("https://jsonplaceholder.typicode.com/users"), true);
 ?>
 <!doctype html>
